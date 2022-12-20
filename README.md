@@ -1,8 +1,8 @@
 
-## Curso de Go Lang Modulo III
+# Curso de Go Lang Modulo III
 
 <h1 align="center">
-    <a href="https://imgur.com/Gy8sCsf"><img src="https://i.imgur.com/Gy8sCsf.png" title="source: imgur.com" /></a>
+    <a href="https://imgur.com/2Lm9HNT"><img src="https://i.imgur.com/2Lm9HNT.png" title="source: imgur.com" /></a>
     <br />
 </h1>
 
